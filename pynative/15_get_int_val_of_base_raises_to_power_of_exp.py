@@ -16,4 +16,3 @@ result = exponent(base, exp)
 print(f"{base} raises to the power of {exp}: {result}")
 
 # If to solve this without **, we should use while loop based on exponent
-
